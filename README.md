@@ -1,1 +1,9 @@
-# github-tables
+# GitHub Tables Assignment
+
+## Sample Data
+
+| Name  | Age | City        |
+|:------|:---:|:------------|
+| John  | 25  | New York    |
+| Alice | 30  | Los Angeles |
+| Bob   | 35  | Chicago     |
